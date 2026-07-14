@@ -1,0 +1,7 @@
+{
+  "name": "PS4 Plus",
+  "render_readme": true,
+  "hacs": "1.6.0",
+  "zip_release": true,
+  "filename": "ps4_plus.zip"
+}
