@@ -1,0 +1,12 @@
+{
+  "domain": "ps4_plus",
+  "name": "PS4 Plus",
+  "codeowners": ["@Zedan2552000"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/Zedan2552000/homeassistant-ps4-plus/tree/main/docs",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/Zedan2552000/homeassistant-ps4-plus/issues",
+  "requirements": ["pyps4-2ndscreen>=1.3.0"],
+  "version": "1.0.0"
+}
